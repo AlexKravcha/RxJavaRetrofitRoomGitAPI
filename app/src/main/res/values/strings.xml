@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserGithubProj</string>
+    <string name="id">id</string>
+    <string name="login">login</string>
+    <string name="details_id" />
+    <string name="details_login" />
+    <string name="everything" />
+    <string name="mine" />
+</resources>
